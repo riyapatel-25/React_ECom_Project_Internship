@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Thapa Technical React Ecommerce Website Series
 
 ## Follow the 3 Steps and you are good to go. 
@@ -88,3 +89,6 @@
 
 
 
+=======
+# React_ECom_Project_Internship
+>>>>>>> b282498297e9b40a28455f1371df29f9a7a572fa
